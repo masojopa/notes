@@ -1,0 +1,6 @@
+{
+  "format": "DD-MM-YYYY",
+  "folder": "Personal/NotasDiarias",
+  "template": "ZTemplates/Diario",
+  "autorun": true
+}

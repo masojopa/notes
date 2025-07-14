@@ -1,0 +1,504 @@
+{
+  "main": {
+    "id": "1064a15f97dbc3fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b465294937b46dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0336af809525e3b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Canvas/Canvas.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Canvas"
+            }
+          },
+          {
+            "id": "755028e991a30d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Canvas/Canvas.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Canvas"
+            }
+          },
+          {
+            "id": "9f36ced6c6794bbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Canvas/Canvas.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Canvas"
+            }
+          },
+          {
+            "id": "380a006c587aa018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Canvas/Canvas.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Canvas"
+            }
+          },
+          {
+            "id": "2f3fc29775ee3784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Canvas/Canvas.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Canvas"
+            }
+          },
+          {
+            "id": "2ed595756cd70ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Canvas/Canvas.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Canvas"
+            }
+          },
+          {
+            "id": "fb31fc6f3d1fa06d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Canvas/Canvas.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Canvas"
+            }
+          },
+          {
+            "id": "34d32c51072bf40c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Canvas/Canvas.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Canvas"
+            }
+          },
+          {
+            "id": "e17118461f72e8da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Canvas/VALUE PROPOSITION.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "VALUE PROPOSITION"
+            }
+          },
+          {
+            "id": "fc05917d72abaefc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompts/Mejora productividad de equipos.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mejora productividad de equipos"
+            }
+          },
+          {
+            "id": "df76326a76d9290f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompts/Mejora productividad de equipos.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mejora productividad de equipos"
+            }
+          },
+          {
+            "id": "9151b4cadbe6c32f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompts/Prompting learning sites.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prompting learning sites"
+            }
+          },
+          {
+            "id": "70863c203aaa17f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kaizen/Yonpun Kaizen ritual nocturno.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Yonpun Kaizen ritual nocturno"
+            }
+          },
+          {
+            "id": "c095407072f1de28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kaizen/Yonpun Kaizen ritual nocturno.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Yonpun Kaizen ritual nocturno"
+            }
+          },
+          {
+            "id": "4cf8d6d9994eff69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Productos/Diseño de productos.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Diseño de productos"
+            }
+          },
+          {
+            "id": "563d37960f9cff3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Growth/Prompts/Best Prompt Practices.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Best Prompt Practices"
+            }
+          },
+          {
+            "id": "3368190c74d0d942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Growth/Prompts/Como usar delimitadores.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Como usar delimitadores"
+            }
+          },
+          {
+            "id": "f27276ffc416cc89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Growth/Prompts/Best Prompt Practices.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Best Prompt Practices"
+            }
+          },
+          {
+            "id": "ea4218788488bc22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Growth/NotasDiarias/05-07-2025.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "05-07-2025"
+            }
+          },
+          {
+            "id": "9a63a939c9852b5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Ciabaton.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ciabaton"
+            },
+            "group": "6b2c3d0bdb32d9c8"
+          },
+          {
+            "id": "6d3d42bc36deb8d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Kaizen/Kaizen 5S.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Kaizen 5S"
+            }
+          }
+        ],
+        "currentTab": 20
+      },
+      {
+        "id": "f590ea79478bc7fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e759eecf0ceeb28d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Ciabaton.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ciabaton"
+            },
+            "group": "6b2c3d0bdb32d9c8"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16002f67491080a0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4e71dac0f3db0118",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "f9c144dab29f11a3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a734842898974f3c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "34729db894c1ea57",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "15efb330f4f4c25d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9075754e718a9471",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Personal/NotasDiarias/08-07-2025.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "85f60d66c1b6b8e1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Templates/Plan Diario.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "41a6f1e66a3ee445",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Templates/Plan Diario.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "4e71dac0f3db0118",
+  "lastOpenFiles": [
+    "Personal/NotasDiarias/12-07-2025.md",
+    "Personal/Adam Smith/The Wealth of Nations.md",
+    "Personal/NotasDiarias/11-07-2025.md",
+    "Personal/NotasDiarias/10-07-2025.md",
+    "Trabajo/Canvas/9 Building blocks of canvas model.md",
+    "Personal/NotasDiarias/09-07-2025.md",
+    "Personal/Kaizen/Kaizen 5S.md",
+    "Trabajo/Canvas/CHANNELS.md",
+    "Personal/NotasDiarias/08-07-2025.md",
+    "Personal/NotasDiarias/07-07-2025.md",
+    "Trabajo/Canvas/CUSTOMER SEGMENT.md",
+    "Trabajo/Canvas/COST STRUCTURE.md",
+    "Trabajo/Canvas/COST STRUCTURE.md",
+    "Personal/Adam Smith",
+    "Pasted image 20250707102437.jpg",
+    "ZTemplates/Diario.md",
+    "Personal/NotasDiarias/06-07-2025.md",
+    "Personal/Kaizen/Kaizen Index.md",
+    "Personal/Prompts/Best Prompt Practices.md",
+    "Ideas/Ciabaton.md",
+    "Trabajo/Canvas/AAIndex Canvas.md",
+    "Ideas/Ikigai.md",
+    "Ideas/Cobra.md",
+    "Personal Growth/Ideas/Ideas.md",
+    "Personal Growth/Ideas.md",
+    "Personal/Repostería/123.md",
+    "Personal/No Code/Postman.md",
+    "Personal/NotasDiarias/05-07-2025.md",
+    "Personal/NotasDiarias/06-25",
+    "Personal Growth/Ideas/Ikigai",
+    "Personal Growth/Kaizen/5S",
+    "Trabajo",
+    "Personal",
+    "Personal/Kaizen",
+    "Personal/No Code",
+    "Postman",
+    "Postman",
+    "Untitled.canvas",
+    "Ideas/Untitled.canvas",
+    "Templates/Untitled.canvas"
+  ]
+}
