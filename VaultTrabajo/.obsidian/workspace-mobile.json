@@ -295,16 +295,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/NotasDiarias/14-07-2025.md",
-                "mode": "source",
+                "file": "Trabajo/Canvas/VALUE PROPOSITION.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "14-07-2025"
-            }
+              "title": "VALUE PROPOSITION"
+            },
+            "group": "549f3b696a1d6037"
           }
         ],
         "currentTab": 20
+      },
+      {
+        "id": "b57d0fa6f7b93c51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25e3279eef0046e9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Trabajo/Canvas/VALUE PROPOSITION.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.6658975887440106,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "549f3b696a1d6037"
+          }
+        ]
       },
       {
         "id": "f590ea79478bc7fb",
@@ -403,7 +448,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personal/NotasDiarias/08-07-2025.md",
+            "file": "Trabajo/Canvas/VALUE PROPOSITION.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -458,36 +503,37 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4e71dac0f3db0118",
+  "active": "6d3d42bc36deb8d7",
   "lastOpenFiles": [
+    "Trabajo/Canvas/9 Building blocks of canvas model.md",
+    "Trabajo/Canvas/AAIndex Canvas.md",
+    "Trabajo/Canvas/VALUE PROPOSITION.md",
+    "Trabajo/Canvas/CUSTOMER SEGMENT.md",
+    "Trabajo/Canvas/CUSTOMER RELATIONSHIPS.md",
+    "Trabajo/Canvas/CHANNELS.md",
+    "Personal/Kaizen/Yonpun Kaizen ritual nocturno.md",
+    "Personal/NotasDiarias/16-07-2025.md",
     "Personal/Kaizen/Kaizen 5S.md",
-    "Personal/NotasDiarias/14-07-2025.md",
-    "Personal/NotasDiarias/12-07-2025.md",
+    "Personal/Kaizen/Kaizen 5S^8a7d81.md",
+    "Personal/Kaizen/Seiri.md",
+    "Personal/Kaizen/Yonpun Kaizen Generico.md",
     "Personal/Adam Smith/The Wealth of Nations.md",
+    "Personal/Kaizen/Kaizen Index.md",
+    "Personal/NotasDiarias/15-07-2025.md",
+    "Personal/NotasDiarias/14-07-2025.md",
+    "ZTemplates/Diario.md",
+    "ZTemplates/Check list.md",
+    "ZTemplates/Untitled.md",
+    "Trabajo/To Do",
+    "Personal/NotasDiarias/12-07-2025.md",
     "Personal/NotasDiarias/11-07-2025.md",
     "Personal/NotasDiarias/10-07-2025.md",
-    "Trabajo/Canvas/9 Building blocks of canvas model.md",
     "Personal/NotasDiarias/09-07-2025.md",
-    "Trabajo/Canvas/CHANNELS.md",
     "Personal/NotasDiarias/08-07-2025.md",
     "Personal/NotasDiarias/07-07-2025.md",
-    "Trabajo/Canvas/CUSTOMER SEGMENT.md",
-    "Trabajo/Canvas/COST STRUCTURE.md",
     "Trabajo/Canvas/COST STRUCTURE.md",
     "Personal/Adam Smith",
     "Pasted image 20250707102437.jpg",
-    "ZTemplates/Diario.md",
-    "Personal/NotasDiarias/06-07-2025.md",
-    "Personal/Kaizen/Kaizen Index.md",
-    "Personal/Prompts/Best Prompt Practices.md",
-    "Ideas/Ciabaton.md",
-    "Trabajo/Canvas/AAIndex Canvas.md",
-    "Ideas/Ikigai.md",
-    "Ideas/Cobra.md",
-    "Personal Growth/Ideas/Ideas.md",
-    "Personal Growth/Ideas.md",
-    "Personal/Repostería/123.md",
-    "Personal/No Code/Postman.md",
     "Personal/NotasDiarias/06-25",
     "Personal Growth/Ideas/Ikigai",
     "Personal Growth/Kaizen/5S",
@@ -495,7 +541,6 @@
     "Personal",
     "Personal/Kaizen",
     "Personal/No Code",
-    "Postman",
     "Postman",
     "Untitled.canvas",
     "Ideas/Untitled.canvas",
