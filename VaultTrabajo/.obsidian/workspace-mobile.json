@@ -310,16 +310,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Code/Rust.md",
+                "file": "ZTemplates/Check list.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Check list"
+            }
+          },
+          {
+            "id": "ec453205f48c0c20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZTemplates/To Do.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rust"
+              "title": "To Do"
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       },
       {
         "id": "b57d0fa6f7b93c51",
@@ -494,37 +508,37 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "262a86905bdef9b1",
+  "active": "ec453205f48c0c20",
   "lastOpenFiles": [
+    "ZTemplates/Check list.md",
+    "ZTemplates/To Do.md",
+    "Trabajo/To Do/T.md",
+    "Trabajo/Canvas/VALUE PROPOSITION.md",
+    "Trabajo/Canvas/Untitled.md",
+    "Trabajo/Canvas/9 Building blocks of canvas model.md",
+    "Trabajo/Canvas/KEY RESOURSES.md",
+    "Trabajo/Canvas/REVENUE STREAMS.md",
+    "Trabajo/Canvas/KEY PARTNERSHIPS.md",
+    "Trabajo/Canvas/KEY ACTIVITIES.md",
+    "Trabajo/Canvas/CUSTOMER SEGMENT.md",
+    "Trabajo/Canvas/CUSTOMER RELATIONSHIPS.md",
+    "Trabajo/Canvas/COST STRUCTURE.md",
+    "Trabajo/Canvas/CHANNELS.md",
+    "Personal/NotasDiarias/17-07-2025.md",
+    "Personal/NotasDiarias/16-07-2025.md",
     "Personal/Code/Python Tutorial.md",
     "Personal/Code/Rust.md",
     "Personal/Kaizen/Kaizen 5S.md",
     "Personal/NotasDiarias/Untitled.md",
-    "Personal/NotasDiarias/16-07-2025.md",
     "Personal/Code/Python",
     "Personal/Code",
-    "Trabajo/Canvas/VALUE PROPOSITION.md",
-    "Trabajo/Canvas/9 Building blocks of canvas model.md",
     "Trabajo/Canvas/AAIndex Canvas.md",
-    "Trabajo/Canvas/CUSTOMER SEGMENT.md",
-    "Trabajo/Canvas/CUSTOMER RELATIONSHIPS.md",
-    "Trabajo/Canvas/CHANNELS.md",
     "Personal/Kaizen/Yonpun Kaizen ritual nocturno.md",
     "Personal/Kaizen/Kaizen 5S^8a7d81.md",
     "Personal/Kaizen/Seiri.md",
     "Personal/Kaizen/Yonpun Kaizen Generico.md",
     "Personal/Adam Smith/The Wealth of Nations.md",
-    "Personal/Kaizen/Kaizen Index.md",
-    "Personal/NotasDiarias/15-07-2025.md",
-    "Personal/NotasDiarias/14-07-2025.md",
-    "ZTemplates/Diario.md",
-    "ZTemplates/Check list.md",
-    "ZTemplates/Untitled.md",
     "Trabajo/To Do",
-    "Personal/NotasDiarias/12-07-2025.md",
-    "Personal/NotasDiarias/11-07-2025.md",
-    "Personal/NotasDiarias/10-07-2025.md",
-    "Personal/NotasDiarias/09-07-2025.md",
     "Personal/Adam Smith",
     "Pasted image 20250707102437.jpg",
     "Personal/NotasDiarias/06-25",
