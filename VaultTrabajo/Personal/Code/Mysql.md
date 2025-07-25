@@ -50,4 +50,28 @@ ALTER TABLE employees
 RENAME COLUMN phone_number TO
 email;
 
+To move a column use
 
+ALTER TABLE "table_name"
+MODIFY "column_name" "column_type"
+FIRST;
+
+ALTER TABLE "table_name"
+MODIFY "column_name_1" "column_type"
+AFTER "column_name_2;
+
+Example:
+
+ALTER TABLE employees
+MODIFY phone_number VARCHAR(15)
+AFTER last_name;
+
+To populate a table use 
+
+INSERT INTO "table_name" VALUES
+(value_column_1, value_column_2, ....., etc.);
+
+Example:
+
+INSERT INTO employees VALUES
+(1, "Jorge", "Collao", "+569-88893348", "collaojorge52@gmail.com", "2021-09-17", 25.50);
