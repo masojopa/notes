@@ -4,379 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5b465294937b46dc",
+        "id": "f66d492f8e7d31cb",
         "type": "tabs",
         "children": [
           {
-            "id": "0336af809525e3b5",
+            "id": "9c2dde9251d144aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Canvas/Canvas.md",
+                "file": "Personal/NotasDiarias/21-07-2025.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Canvas"
+              "title": "21-07-2025"
             }
           },
           {
-            "id": "755028e991a30d38",
+            "id": "dbe9944ecc98b0c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Canvas/Canvas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Canvas"
-            }
-          },
-          {
-            "id": "9f36ced6c6794bbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas/Canvas/Canvas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Canvas"
-            }
-          },
-          {
-            "id": "380a006c587aa018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas/Canvas/Canvas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Canvas"
-            }
-          },
-          {
-            "id": "2f3fc29775ee3784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas/Canvas/Canvas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Canvas"
-            }
-          },
-          {
-            "id": "2ed595756cd70ee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas/Canvas/Canvas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Canvas"
-            }
-          },
-          {
-            "id": "fb31fc6f3d1fa06d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas/Canvas/Canvas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Canvas"
-            }
-          },
-          {
-            "id": "34d32c51072bf40c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas/Canvas/Canvas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Canvas"
-            }
-          },
-          {
-            "id": "e17118461f72e8da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas/Canvas/VALUE PROPOSITION.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "VALUE PROPOSITION"
-            }
-          },
-          {
-            "id": "fc05917d72abaefc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts/Mejora productividad de equipos.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mejora productividad de equipos"
-            }
-          },
-          {
-            "id": "df76326a76d9290f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts/Mejora productividad de equipos.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mejora productividad de equipos"
-            }
-          },
-          {
-            "id": "9151b4cadbe6c32f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts/Prompting learning sites.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prompting learning sites"
-            }
-          },
-          {
-            "id": "70863c203aaa17f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kaizen/Yonpun Kaizen ritual nocturno.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Yonpun Kaizen ritual nocturno"
-            }
-          },
-          {
-            "id": "c095407072f1de28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kaizen/Yonpun Kaizen ritual nocturno.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Yonpun Kaizen ritual nocturno"
-            }
-          },
-          {
-            "id": "4cf8d6d9994eff69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Productos/Diseño de productos.md",
+                "file": "Personal/Code/Mysql.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Diseño de productos"
-            }
-          },
-          {
-            "id": "563d37960f9cff3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Growth/Prompts/Best Prompt Practices.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Best Prompt Practices"
-            }
-          },
-          {
-            "id": "3368190c74d0d942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Growth/Prompts/Como usar delimitadores.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Como usar delimitadores"
-            }
-          },
-          {
-            "id": "f27276ffc416cc89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Growth/Prompts/Best Prompt Practices.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Best Prompt Practices"
-            }
-          },
-          {
-            "id": "ea4218788488bc22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Growth/NotasDiarias/05-07-2025.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "05-07-2025"
-            }
-          },
-          {
-            "id": "9a63a939c9852b5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas/Ciabaton.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ciabaton"
-            },
-            "group": "6b2c3d0bdb32d9c8"
-          },
-          {
-            "id": "6d3d42bc36deb8d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Code/Python Tutorial.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Python Tutorial"
-            },
-            "group": "549f3b696a1d6037"
-          },
-          {
-            "id": "262a86905bdef9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZTemplates/Check list.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Check list"
-            }
-          },
-          {
-            "id": "ec453205f48c0c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZTemplates/To Do.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "To Do"
+              "title": "Mysql"
             }
           }
         ],
-        "currentTab": 22
-      },
-      {
-        "id": "b57d0fa6f7b93c51",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "25e3279eef0046e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Code/Python Tutorial.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Python Tutorial"
-            },
-            "group": "549f3b696a1d6037"
-          }
-        ]
-      },
-      {
-        "id": "f590ea79478bc7fb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e759eecf0ceeb28d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas/Ciabaton.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ciabaton"
-            },
-            "group": "6b2c3d0bdb32d9c8"
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -453,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Trabajo/Canvas/VALUE PROPOSITION.md",
+            "file": "Personal/Code/Mysql.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -497,57 +157,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ec453205f48c0c20",
+  "active": "dbe9944ecc98b0c8",
   "lastOpenFiles": [
-    "ZTemplates/Check list.md",
-    "ZTemplates/To Do.md",
-    "Trabajo/To Do/T.md",
-    "Trabajo/Canvas/VALUE PROPOSITION.md",
-    "Trabajo/Canvas/Untitled.md",
-    "Trabajo/Canvas/9 Building blocks of canvas model.md",
-    "Trabajo/Canvas/KEY RESOURSES.md",
-    "Trabajo/Canvas/REVENUE STREAMS.md",
-    "Trabajo/Canvas/KEY PARTNERSHIPS.md",
-    "Trabajo/Canvas/KEY ACTIVITIES.md",
-    "Trabajo/Canvas/CUSTOMER SEGMENT.md",
-    "Trabajo/Canvas/CUSTOMER RELATIONSHIPS.md",
-    "Trabajo/Canvas/COST STRUCTURE.md",
-    "Trabajo/Canvas/CHANNELS.md",
-    "Personal/NotasDiarias/17-07-2025.md",
-    "Personal/NotasDiarias/16-07-2025.md",
-    "Personal/Code/Python Tutorial.md",
+    "Trabajo/To Do/Semana 30.md",
+    "Personal/Code/Mysql.md",
+    "Personal/Code/Mysql 1.md",
+    "Trabajo/Productos/Diseño de productos.md",
+    "Code/Mysql.md",
+    "Code",
+    "Personal/Code/Pseudocode.md",
+    "Personal/Camioneta.md",
+    "Pasted image 20250724081655.jpg",
+    "Personal/NotasDiarias/23-07-2025.md",
+    "Personal/Repostería/Sablée 24 cm.md",
+    "Personal/Untitled.md",
+    "Personal/Repostería/123.md",
+    "Trabajo/Software/Proveedores.md",
+    "Trabajo/Software/Ciclo de la Empresa.md",
+    "Trabajo/Software/Productos.md",
+    "Trabajo/Untitled 1",
+    "Trabajo/Software",
+    "Personal/NotasDiarias/22-07-2025.md",
+    "Personal/NotasDiarias/21-07-2025.md",
+    "Personal/Code/free-for.dev.md",
     "Personal/Code/Rust.md",
-    "Personal/Kaizen/Kaizen 5S.md",
-    "Personal/NotasDiarias/Untitled.md",
+    "Personal/Code/Python Tutorial.md",
+    "Trabajo/Productos/Envases/Etiquetas.md",
+    "Personal/NotasDiarias/20-07-2025.md",
+    "Personal/NotasDiarias/18-07-2025.md",
+    "Personal/NotasDiarias/05-07-2025.md",
+    "Personal/NotasDiarias/19-07-2025.md",
+    "ZTemplates/Diario.md",
+    "ZTemplates/To Do.md",
+    "Trabajo/Canvas/Canvas1.canvas",
+    "Untitled.canvas",
     "Personal/Code/Python",
     "Personal/Code",
-    "Trabajo/Canvas/AAIndex Canvas.md",
-    "Personal/Kaizen/Yonpun Kaizen ritual nocturno.md",
-    "Personal/Kaizen/Kaizen 5S^8a7d81.md",
-    "Personal/Kaizen/Seiri.md",
-    "Personal/Kaizen/Yonpun Kaizen Generico.md",
-    "Personal/Adam Smith/The Wealth of Nations.md",
     "Trabajo/To Do",
     "Personal/Adam Smith",
     "Pasted image 20250707102437.jpg",
     "Personal/NotasDiarias/06-25",
     "Personal Growth/Ideas/Ikigai",
     "Personal Growth/Kaizen/5S",
-    "Trabajo",
-    "Personal",
-    "Personal/Kaizen",
-    "Untitled.canvas",
     "Ideas/Untitled.canvas",
     "Templates/Untitled.canvas"
   ]

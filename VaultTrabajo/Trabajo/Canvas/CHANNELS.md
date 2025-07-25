@@ -11,17 +11,32 @@ Channels represent how you reach, communicate with, and deliver value to your cu
 
 ## The Five Channel Phases
 
-Channels serve five distinct functions throughout the customer journey. **Awareness** channels help potential customers discover your existence and understand what you offer. **Evaluation** channels provide information that helps customers assess whether your value proposition fits their needs. **Purchase** channels enable the actual transaction. **Delivery** channels get your product or service into customers' hands. **After-sales** channels provide ongoing support and maintain the relationship.
+Channels serve five distinct functions throughout the customer journey.
+- **Awareness** channels help potential customers discover your existence and understand what you offer.
+- **Evaluation** channels provide information that helps customers assess whether your value proposition fits their needs.
+- **Purchase** channels enable the actual transaction.
+- **Delivery** channels get your product or service into customers' hands.
+- **After-sales** channels provide ongoing support and maintain the relationship.
 
 ## Channel Types and Ownership
 
-Channels fall into two main categories: owned and partner channels. **Owned channels** include your website, mobile app, physical stores, and sales force. These give you maximum control over the customer experience but require significant investment and expertise. **Partner channels** include retailers, distributors, resellers, and third-party platforms. They provide broader reach and leverage existing relationships but offer less control and typically involve revenue sharing.
+Channels fall into two main categories: owned and partner channels.
+- **Owned channels**
+	Include your website, mobile app, physical stores, and sales force. These give you maximum control over the customer experience but require significant investment and expertise.
+- **Partner channels**
+	Include retailers, distributors, resellers, and third-party platforms. They provide broader reach and leverage existing relationships but offer less control and typically involve revenue sharing.
 
 ## Channel Strategy Considerations
 
-The optimal channel mix depends on several factors. Consider your customer segments' preferences - do they prefer online research and purchasing, or do they value face-to-face interaction? Your product characteristics matter too - complex products often benefit from high-touch channels that allow for explanation and customization, while simple products can thrive through self-service channels.
+The optimal channel mix depends on several factors.
 
-Geographic reach influences channel strategy significantly. Local markets might be best served through direct channels or local partners, while global expansion often requires platform partnerships or international distributors. Your competitors' channel strategies also matter - you might choose to compete directly in the same channels or find underserved channel opportunities.
+- Consider your customer segments preferences
+	Do they prefer online research and purchasing, or do they value face-to-face interaction?
+- Your product characteristics matter too.
+	Complex products often benefit from high-touch channels that allow for explanation and customization, while simple products can thrive through self-service channels.
+
+Geographic reach influences channel strategy significantly.
+- Local markets might be best served through direct channels or local partners, while global expansion often requires platform partnerships or international distributors.Your competitors' channel strategies also matter - you might choose to compete directly in the same channels or find underserved channel opportunities.
 
 ## Channel Economics
 

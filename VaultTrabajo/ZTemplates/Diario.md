@@ -2,7 +2,7 @@
 
 #### Primario
 
-### Secundario
+#### Secundario
 
 # Resumen
 
