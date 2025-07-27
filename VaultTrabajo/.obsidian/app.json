@@ -24,7 +24,8 @@
     "editor:redo",
     "editor:configure-toolbar",
     "insert-current-date",
-    "editor:insert-table"
+    "editor:insert-table",
+    "insert-current-time"
   ],
   "alwaysUpdateLinks": true
 }

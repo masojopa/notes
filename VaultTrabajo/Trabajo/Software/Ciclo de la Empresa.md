@@ -1,0 +1,8 @@
+- Comprar
+	- [[Proveedores]]
+	- [[Productos]]
+- Procesar
+	- Estandrizar procesos
+- Vender
+	- Clientes
+	- Canvas completo

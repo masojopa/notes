@@ -1,9 +1,18 @@
-1. ## Kokoro no Seiri
-	- Limpieza de Mente
-	- anota tres pensamiento que ocupan espcio en tu mente en un cuaderno cerca de tu cama
-	- Kokoro (Significa Corazon pero abarca tambien la Mente, Espiritu y los sentimientos engloba la parte emocional y la esencia de ina persona)
-	- no (Que pertenece a)
-	- Seiri ( Es la primera de la 5S del metodo Kaizen y sigmifica eliminar lo innecesario dejando solo lo esencial)
+## Kokoro no Seiri
+
+- ### *Limpieza de Mente*
+	Anota tres pensamiento que ocupan espcio en tu mente en un cuaderno cerca de tu cama
+#### *Kokoro*
+- Significa Corazon pero abarca tambien la Mente, Espiritu y los Sentimientos. Engloba la parte emocional y la esencia de una persona
+#### *no*
+- Significa que pertenece a
+ 
+#### *Seiri*
+[[Kaizen 5S#Seiri]]
+
+- Sigmifica eliminar lo innecesario dejando solo lo esencial
+- Es la primera de la 5S del metodo Kaizen 
+ 
 2. ## Mocugio no Shotten
 	- Enfoque en el objetivo (Escribe una unica meta especifica para el dia siguiente "Truco escibirlo en tiempo presente como si ya hubiera sicedido)
 	- Mocugio

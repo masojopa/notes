@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c9770fae3ecaf71a","type":"file","file":"Trabajo/Canvas/CHANNELS.md","x":-16,"y":112,"width":336,"height":328},
+		{"id":"463888c37eb32695","type":"file","file":"Trabajo/Canvas/CUSTOMER SEGMENT.md","x":280,"y":680,"width":340,"height":320,"color":"1"},
+		{"id":"fc01b1672f0bb3d8","type":"file","file":"Trabajo/Canvas/AAIndex Canvas.md","x":240,"y":-520,"width":400,"height":392}
+	],
+	"edges":[
+		{"id":"a6d5baa3f4e5b4dd","fromNode":"463888c37eb32695","fromSide":"top","toNode":"c9770fae3ecaf71a","toSide":"right"},
+		{"id":"e567ffaa2bb9d869","fromNode":"fc01b1672f0bb3d8","fromSide":"bottom","toNode":"c9770fae3ecaf71a","toSide":"top"}
+	]
+}
