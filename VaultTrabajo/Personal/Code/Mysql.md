@@ -12,7 +12,7 @@ SHOW DATABASES;
 
 ## Table Commands
 
-CREATE TABLE (
+CREATE TABLE "table_name"(
 column_name_1,
 column_name_2,
 etc...
