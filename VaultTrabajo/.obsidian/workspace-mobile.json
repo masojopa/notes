@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Code/Mysql.md",
+                "file": "Personal/NotasDiarias/03-08-2025.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mysql"
+              "title": "03-08-2025"
+            }
+          },
+          {
+            "id": "5abd3650ce54dd34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Prompts/Augur.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Augur"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personal/Code/Mysql.md",
+            "file": "Trabajo/To Do/Semana 31.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,38 +183,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbe9944ecc98b0c8",
+  "active": "5abd3650ce54dd34",
   "lastOpenFiles": [
-    "Trabajo/To Do/Semana 30.md",
+    "Personal/Prompts/Best Prompt Practices.md",
+    "Personal/Prompts/Augur.md",
+    "Personal/NotasDiarias/01-07-2025.md",
+    "Personal/Prompts/Fomento del Razonamiento y la Profundidad en Prompts.md",
+    "Personal/Prompts/Prompting learning sites.md",
+    "Personal/Camioneta.md",
+    "Personal/NotasDiarias/04-08-2025.md",
+    "Personal/NotasDiarias/03-08-2025.md",
     "Personal/Code/Mysql.md",
+    "Personal/NotasDiarias/31-07-2025.md",
+    "Personal/NotasDiarias/30-07-2025.md",
+    "Personal/NotasDiarias/29-07-2025.md",
+    "Personal/NotasDiarias/28-07-2025.md",
+    "Trabajo/To Do/Semana 30.md",
+    "Trabajo/To Do/Semana 31.md",
+    "Personal/Untitled.md",
+    "Personal/NotasDiarias/27-07-2025.md",
+    "Personal/NotasDiarias/26-07-2025.md",
+    "Personal/NotasDiarias/25-07-2025.md",
     "Personal/Code/Mysql 1.md",
     "Trabajo/Productos/Diseño de productos.md",
     "Code/Mysql.md",
     "Code",
     "Personal/Code/Pseudocode.md",
-    "Personal/Camioneta.md",
     "Pasted image 20250724081655.jpg",
     "Personal/NotasDiarias/23-07-2025.md",
     "Personal/Repostería/Sablée 24 cm.md",
-    "Personal/Untitled.md",
     "Personal/Repostería/123.md",
-    "Trabajo/Software/Proveedores.md",
-    "Trabajo/Software/Ciclo de la Empresa.md",
-    "Trabajo/Software/Productos.md",
     "Trabajo/Untitled 1",
     "Trabajo/Software",
-    "Personal/NotasDiarias/22-07-2025.md",
-    "Personal/NotasDiarias/21-07-2025.md",
-    "Personal/Code/free-for.dev.md",
-    "Personal/Code/Rust.md",
-    "Personal/Code/Python Tutorial.md",
-    "Trabajo/Productos/Envases/Etiquetas.md",
-    "Personal/NotasDiarias/20-07-2025.md",
-    "Personal/NotasDiarias/18-07-2025.md",
-    "Personal/NotasDiarias/05-07-2025.md",
-    "Personal/NotasDiarias/19-07-2025.md",
-    "ZTemplates/Diario.md",
-    "ZTemplates/To Do.md",
     "Trabajo/Canvas/Canvas1.canvas",
     "Untitled.canvas",
     "Personal/Code/Python",
